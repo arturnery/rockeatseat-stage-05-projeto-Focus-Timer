@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto IMC" src="" width="100%">
+  <img alt="Projeto FocusTimer - Pomodoro" src="" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto 'FocusTimer - Pomodoro' é focado em ajudar as pessoas a se concentrarem em uma atividade de acordo com o tempo desejado, através de um cronômetro.
 
-- [Visite o projeto online](https://arturnery.github.io/rockeatseat-stage-05-projeto-IMC/)
+- [Visite o projeto online](https://arturnery.github.io/rockeatseat-stage-05-projeto-Focus-Timer)
 
 ## :memo: Licença
 
